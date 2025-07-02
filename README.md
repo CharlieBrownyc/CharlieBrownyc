@@ -58,4 +58,4 @@ Creative한 능력이 있어야 한다고 생각합니다!
 <br />
 <br />
 
-Copyright ⓒ startupcode yaro
+Copyright ⓒ
