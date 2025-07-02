@@ -1,5 +1,5 @@
 ## CharlieBrownyc / Charlie Brownyc
-안녕하세요! 🙋‍♂️ Charlie Yun 개발자 입니다.  
+안녕하세요! 🙋‍♂️ CharlieBrownyc 개발자 입니다.  
 개발이란 코드를 복붙하더라도  
 그 기술을 알고 구현 할 줄 알며  
 Creative한 능력이 있어야 한다고 생각합니다!
