@@ -4,28 +4,75 @@
 - 💻 [Slack Workspace](https://drag-on-fly.slack.com/archives/C098V59SRPY)
 - 🎧 [Join the Discord Server](https://discord.gg/7RQHWuhj)
 and I’ll get back to you!  
+# 🧑‍💻 Project Showcase: Beginner-Friendly Examples
 
-## CharlieBrownyc / Charlie Brownyc
-안녕하세요! 🙋‍♂️ CharlieBrownyc 개발자 입니다.  
-개발이란 코드를 복붙하더라도  
-그 기술을 알고 구현 할 줄 알며  
-Creative한 능력이 있어야 한다고 생각합니다!
-<br />
-<br />
-<br />
-## My values
-😎 주위가 나태하면 재미없어 합니다<br />
-👌 어설픔이 보이면 방관합니다<br />
-🦻 <br />
-<br />
-<br />
-<br />
-## How i work
-저는 항상 재미있게 살고 싶습니다. 사용자와 클라이언트를 동시에 만족 시키는 것 또한 재미있고, 새로운 기술을 배우는 것 또한 재미 있습니다. 어려운 프로덕트를 성공 시키는 경험또한 재미있고 기술을 쉽게 풀어내는 것 또한 재미있습니다 :) 그리고 무조건 약속한 시간을 지키기 위해 노력하며 단순히 약속한 시간을 지키는것이 아닌 최대한 완성도를 높이기 위해서 노력합니다!
-저는 장비에 관심이 많아서 모든 장비가 세팅되어 있는 환경을 좋아합니다 :) 그래서 자택하는걸 좋아하지만 가끔은 카페에서 일하는것도 좋습니다.
-<br />
-<br />
-<br />
+Welcome to this repository — a curated collection of beginner-friendly examples and reference implementations.  
+Whether you're just beginning your development journey or exploring real-world project structures, this repository provides practical, understandable patterns that aim to accelerate your learning.
+
+## 📚 What's Included
+
+This collection showcases simplified examples across various tech stacks, including:
+
+- ☕ **Spring Boot**, 🧬 **gRPC**, 🔧 **Thymeleaf**
+- 🟨 **Node.js**, ⚛️ **React Native**, 🎯 **Flutter**
+- 🐍 **Python**, 🐹 **Go**
+- 🐬 **MySQL**, 🟥 **Redis**, 🍃 **MongoDB**
+- 🐳 **Docker Compose**, 📡 **Elasticsearch**
+
+Each example is designed with clarity and structure in mind, making it easier to understand core concepts such as:
+
+- Backend API development
+- Frontend rendering with templating engines or native UIs
+- Database interactions
+- Asynchronous communication
+- Containerization and orchestration
+- Scalable application architecture
+
+---
+
+## 📊 Architecture Diagram
+
+```mermaid
+graph TD
+    mobile["Mobile App (React Native / Flutter)"]
+    api["API Server (Spring Boot / Node.js)"]
+    db["(MySQL / MongoDB / Redis)"]
+    cache["Redis"]
+    search["Elasticsearch"]
+    grpc["Microservices (gRPC)"]
+
+    mobile --> api
+    api --> db
+    api --> grpc
+    grpc --> search
+    api --> cache
+```
+
+---
+
+## 📸 Example Screenshots
+
+### React Native
+
+![React Native UI](./react-native-example/screenshot.png)
+
+### Spring Boot REST API
+
+![Spring Boot Logs](./springboot-example/log-sample.png)
+
+---
+
+## 🤝 Contributing
+
+If you find any mistakes, have improvement ideas, or wish to contribute beginner-friendly examples of your own, feel free to submit a pull request or open an issue.
+
+---
+
+## 📬 Contact
+
+For other inquiries, suggestions, or collaboration, please reach out via [GitHub Issues](https://github.com/your-username/your-repo-name/issues).
+
+
 ## Skills
 #### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">  
