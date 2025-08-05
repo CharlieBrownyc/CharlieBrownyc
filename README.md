@@ -1,3 +1,10 @@
+# 🔒 Some parts of this repo are private.
+
+👋 Want to take a look? Just 
+- 💻 [Slack Workspace](https://drag-on-fly.slack.com/archives/C098V59SRPY)
+- 🎧 [Join the Discord Server](https://discord.gg/7RQHWuhj)
+and I’ll get back to you!  
+
 ## CharlieBrownyc / Charlie Brownyc
 안녕하세요! 🙋‍♂️ CharlieBrownyc 개발자 입니다.  
 개발이란 코드를 복붙하더라도  
